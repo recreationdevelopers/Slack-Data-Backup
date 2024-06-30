@@ -2,6 +2,8 @@
 
 Script to backup a DM from a Slack subdomain. Use the code at your own risk and please do due diligence before running it.
 
+**Contact**: If you're adding on to this script, please do let me know using the contact form here: [prashantmishra.xyz/contact-me.html](https://prashantmishra.xyz/contact-me.html)
+
 ## Pre-Requisites
 
 1. You might require a Slack subscription that grants you access to the entire message history. **This code has been tested on a trial version of Slack Pro in June 2024.**
