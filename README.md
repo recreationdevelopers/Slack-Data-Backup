@@ -33,7 +33,7 @@ Script to backup a DM from a Slack subdomain. Use the code at your own risk and 
 
 ## Python Script
 
-The python file, downloadSlackDMToJSON.py has the following placeholders:
+The python file, [downloadSlackDMToJSON.py](downloadSlackDMToJSON.py) has the following placeholders:
 
 -   _slack_user_token_
 -   _channel_id_
