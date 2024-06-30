@@ -4,7 +4,8 @@ Script to backup a DM from a Slack subdomain. Use the code at your own risk and 
 
 ## Pre-Requisites
 
-You need to have the necessary access to the Slack subdomain that should grant you permissions to create and install apps to your Slack Workspace. Please check with an admin before proceeding, if you aren't one.
+1. You might require a Slack subscription that grants you access to the entire message history. **This code has been tested on a trial version of Slack Pro in June 2024.**
+2. You need to have the necessary access to the Slack subdomain that should grant you permissions to create and install apps to your Slack Workspace. Please check with an admin before proceeding, if you aren't one.
 
 ### Creating the Slack app
 
